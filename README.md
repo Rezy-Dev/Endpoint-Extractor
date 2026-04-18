@@ -16,3 +16,6 @@ Endpoint Extractor scans JavaScript resources in the current page and identifies
 1. Navigate to the target web application.
 2. Click the "Endpoint Extractor" bookmark.
 3. A new window will open displaying the extracted endpoints.
+
+# Example
+![Endpoint Extractor, Example/Demo Image](./example.png)
